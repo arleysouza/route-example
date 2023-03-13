@@ -1,6 +1,6 @@
 import * as express from "express";
-import * as dotenv from 'dotenv';
-import routes from './routes';
+import * as dotenv from "dotenv";
+import routes from "./routes";
 
 dotenv.config();
 
